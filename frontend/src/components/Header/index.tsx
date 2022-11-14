@@ -14,9 +14,9 @@ function Header() {
               @devsuperior.ig
             </a>
             <span> & </span>
-            <a href="https://www.instagram.com/ricardiiinnn">@ricardiiinnn</a>
+            <a href="https://www.instagram.com/riicardiinn/">@riicardiinn</a>
             <span> </span>
-            Na semana React Spring Devsuperior
+            na Semana React Spring Devsuperior
           </p>
         </div>
       </header>
